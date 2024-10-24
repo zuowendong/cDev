@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cDev\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A363DB-2BF0-4FA0-94FA-3930F7CEE62E}|HelloWorld.vcxproj|D:\\cDev\\HelloWorld\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A363DB-2BF0-4FA0-94FA-3930F7CEE62E}|HelloWorld.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A363DB-2BF0-4FA0-94FA-3930F7CEE62E}|HelloWorld.vcxproj|D:\\cDev\\HelloWorld\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A363DB-2BF0-4FA0-94FA-3930F7CEE62E}|HelloWorld.vcxproj|solutionrelative:Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A363DB-2BF0-4FA0-94FA-3930F7CEE62E}|HelloWorld.vcxproj|D:\\cDev\\HelloWorld\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A363DB-2BF0-4FA0-94FA-3930F7CEE62E}|HelloWorld.vcxproj|solutionrelative:Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "D:\\cDev\\HelloWorld\\Log.cpp",
+              "RelativeDocumentMoniker": "Log.cpp",
+              "ToolTip": "D:\\cDev\\HelloWorld\\Log.cpp",
+              "RelativeToolTip": "Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T08:42:14.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Math.cpp",
+              "DocumentMoniker": "D:\\cDev\\HelloWorld\\Math.cpp",
+              "RelativeDocumentMoniker": "Math.cpp",
+              "ToolTip": "D:\\cDev\\HelloWorld\\Math.cpp",
+              "RelativeToolTip": "Math.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T08:50:48.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\cDev\\HelloWorld\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\cDev\\HelloWorld\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T07:42:01.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
