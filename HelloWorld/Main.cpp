@@ -9,6 +9,7 @@ void MultiplyAndLog(int a, int b) {
 }
 
 int main() {
+	InitLog();
 	Log("Hello World");
 
 	MultiplyAndLog(2, 4);
