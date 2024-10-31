@@ -10,7 +10,20 @@ void MultiplyAndLog(int a, int b) {
 
 int main() {
 	InitLog();
-	Log("Hello World");
+
+	int x = 7;
+	bool comparisonResult = x == 5;
+	if (comparisonResult) {
+		Log("Hello World");
+	}
+	else if (x == 6) {
+		Log("x is 6");
+	}
+	else {
+		Log("x is not 5 and 6");
+	}
+
+
 
 	MultiplyAndLog(2, 4);
 	MultiplyAndLog(6, 9);
